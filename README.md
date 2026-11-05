@@ -24,14 +24,25 @@ This project documents my Week 1 hands-on cybersecurity lab for the Networkwalks
 6. Regained access to Kali Linux and continued working in the virtual environment.
 
 ## Troubleshooting 
-**Issue: ** I could not login to Kali Linux because I had forgotten my password. The default credentials did not work. 
+**Issue:** I could not login to Kali Linux because I had forgotten my password. The default credentials did not work. 
 
-**Resolution: ** I used the GRUB boot process and Linux password recovery procedure to reset my password, then successfully logged back in. 
+**Resolution:** I used the GRUB boot process and Linux password recovery procedure to reset my password, then successfully logged back in. 
 
-**Lesson Learned: ** Understanding Linux boot and recovery procedures is important for troubleshooting and system administration. 
+**Lesson Learned:** Understanding Linux boot and recovery procedures is important for troubleshooting and system administration. 
 
 ## Screenshots
-Screenshots of the VirtualBox setup, Kali Linux environment, and successful login will be added here as project evidence.
+#### 1. VirtualBox Configuration
+![VirtualBox Configuration](01-VirtualBox-Configuration.png)
+
+#### 2. Kali Linux Desktop
+![Kali Linux Desktop](02-Kali-Linux-Desktop.png)
+
+#### 3. Kali Linux Terminal
+![Kali Linux Terminal](03-Kali-Linux-Terminal.png)
+
+#### 4. Network Connectivity
+![Network Connectivity](04-Kali-Network-Connectivity.png)
+
 
 ## Skills Developed 
 - Virtualization fundamentals
