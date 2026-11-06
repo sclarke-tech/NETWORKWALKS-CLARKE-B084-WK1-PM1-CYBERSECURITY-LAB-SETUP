@@ -1,4 +1,4 @@
-# NETWORKWALKS-CLARKE-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-CLARKE-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 Week 1 Networkwalks Cybersecuirty Internship project: Setting up a virtual cybersecurity lab using Oracle Virtual Box and Kali Linux.
 ##Project Overview 
 This project documents my Week 1 hands-on cybersecurity lab for the Networkwalks Cybersecurity Internship. I worked with Oracle VirtualBox and Kali Linux to prepare a virtual environment for cybersecurity training. 
